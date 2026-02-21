@@ -10,7 +10,7 @@ And responds with either:
 - 404 File Not Found
 - 403 Forbidden (Only when path traversal is attempted)
 
-My utilisation of Berkeley's sockets API was greatly assisted by Beej's Network Programming guide. 
+My utilisation of Berkeley's sockets API was greatly inspired by [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/). 
 I don't think I need to make it obvious this isn't production-grade and is simply me fiddling around. Feel free to mess with it though :)
 
 ## Usage
